@@ -1,1 +1,1 @@
-web: java -jar build/libs/readinglist-0.0.1-SNAPSHOT.jar
+web: java $JAVA_OPTS -jar build/libs/readinglist-0.0.1-SNAPSHOT.jar
